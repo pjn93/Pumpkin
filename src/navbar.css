@@ -1,0 +1,18 @@
+.navright {
+  display: flex;
+  width: 220px;
+  justify-content: space-around;
+}
+
+.hoverEffect {
+  color: #fff;
+  font-size: 28px;
+  transition: transform 0.2s;
+}
+
+.hoverEffect2 {
+  color: grey;
+  font-size: 28px;
+  transition: transform 0.2s;
+}
+
